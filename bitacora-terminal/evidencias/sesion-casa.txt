@@ -1,0 +1,59 @@
+    1  mkdir bitacora-terminal
+    2  pwd
+    3  ls
+    4  cd Progra2
+    5  cd D:
+    6  cd progra2
+    7  mkdir bitacora-terminal
+    8  touch comandos
+    9  cd bitacora-terminal
+   10  touch comandos
+   11  cd rm comandos
+   12  rm comandos
+   13  mkdir comandos
+   14  cd comandos
+   15  touch COMANDOS.md
+   16  cd ..
+   17  mkdir evidencias
+   18  git config --global user.email "agustin.subieta@ucb.edu.bo
+git config --global user.name "agustinsubieta"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   19  git commit -m "commit 1 linux"
+   20  git add bitacora-terminal
+   21  git add "bitacora-terminal"
+   22  git add bitacora-terminal.extension
+   23  git add Progra2/bitacora-terminal
+   24  git add Progra2/bitacora-terminal
+   25  git add Progra2/bitacora-terminal
+   26  git status 
+   27  cd ..
+   28  git status
+   29  git add Progra2/bitacora-terminal
+   30  git add comandos
+   31  cd bitacora-terminal
+   32  git add .
+   33  git commit -m "commit 1 linux"
+   34  cd evidencias
+   35  touch sesion-casa.txt
+   36  history > evidencias/sesion-casa.txt
+   37  cd..
+   38  cd..
+   39  cd..
+   40  cd ..
+   41  history > evidencias/sesion-casa.txt
